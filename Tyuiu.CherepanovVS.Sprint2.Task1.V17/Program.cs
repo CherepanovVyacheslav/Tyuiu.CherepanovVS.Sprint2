@@ -18,7 +18,7 @@ namespace Tyuiu.CherepanovVS.Sprint2.Task1.V17
             int d = 321;
             bool[] res = new bool[6];
             res = ds.GetLogicOperations(a, b, c, d);
-            Console.Title = "Спринт #1 | Выполнил: Черепанов В.С. | ПКТб-23-1";
+            Console.Title = "Спринт #2 | Выполнил: Черепанов В.С. | ПКТб-23-1";
             Console.WriteLine("****************************************************************************");
             Console.WriteLine("*Спринт2                                                                   *");
             Console.WriteLine("*Тема: Логические операции                                                 *");

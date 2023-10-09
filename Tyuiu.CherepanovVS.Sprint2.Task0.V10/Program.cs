@@ -43,7 +43,6 @@ namespace Tyuiu.CherepanovVS.Sprint2.Task0.V10
                 Console.WriteLine(res[i]);
             }
             Console.ReadLine();
-
         }
     }
 }

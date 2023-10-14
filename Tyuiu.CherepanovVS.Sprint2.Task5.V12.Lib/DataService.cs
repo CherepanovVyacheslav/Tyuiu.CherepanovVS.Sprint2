@@ -11,17 +11,17 @@ namespace Tyuiu.CherepanovVS.Sprint2.Task5.V12.Lib
     {
         public string FindDateOfPreviousDay(int g, int m, int n)
         {
-            string res;
-            switch (g,m,n)
+            string res = ;
+            switch (res)
             {
-                case 2023,1,1:
+                case 1:
                     res = "1";
                     break;
                 case 2 
 
             }
 
-            return ();
+           
         }
     }
 }
